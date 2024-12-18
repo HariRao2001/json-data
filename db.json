@@ -1,0 +1,454 @@
+{
+  "usersDetails": [
+    {
+      "id": "31ca",
+      "name": "manikanta nelli",
+      "password": "Manikanta@2001",
+      "address": "kota,ap,524411",
+      "passportNumber": "dgwhdhuiqw",
+      "dob": "2002-01-11",
+      "country": "India"
+    },
+    {
+      "id": "16cd",
+      "name": "Hari",
+      "password": "Hari@123456",
+      "address": "kota,ap,524411",
+      "passportNumber": "bci13kxk11",
+      "dob": "2001-01-11",
+      "country": "India"
+    }
+  ],
+  "bookingsData": [
+    {
+      "id": "53bb",
+      "airplaneId": "IND163",
+      "airplaneTravellingDetails": {
+        "from": "(CHN)Chennai",
+        "to": "(VZD)Vijayawada"
+      },
+      "airplaneClass": "Economy",
+      "price": "6000",
+      "duration": "02hr 10min",
+      "airportNames": {
+        "from": "Chennai International Airport, Chennai",
+        "to": "Vijayawada Airport, Vijayawada"
+      },
+      "airplaneTimings": {
+        "start": "14:00",
+        "end": "16:10"
+      },
+      "passengersCount": "1",
+      "orderedDate": "2024-12-12T10:26:48.985Z",
+      "flightDate": "2024-12-13",
+      "ticketId": "21633711261346678",
+      "selectedSeats": [
+        "9C"
+      ],
+      "userId": "31ca",
+      "passengerDetails": {
+        "passenger1name": "hari",
+        "passenger1age": "23"
+      },
+      "passengerSeatConfigurationDetails": [
+        {
+          "seatNo": "9C",
+          "personName": "hari",
+          "personAge": "23"
+        }
+      ]
+    },
+    {
+      "id": "ae1f",
+      "airplaneId": "IND173",
+      "airplaneTravellingDetails": {
+        "from": "(CHN)Chennai",
+        "to": "(MBI)Mumbai"
+      },
+      "airplaneClass": "Economy",
+      "price": "8700",
+      "duration": "03hr 40min",
+      "airportNames": {
+        "from": "Chennai International Airport, Chennai",
+        "to": "Chattrapathi Shivaji Interantional Airport, Mumbai"
+      },
+      "airplaneTimings": {
+        "start": "13:20",
+        "end": "17:00"
+      },
+      "passengersCount": "1",
+      "orderedDate": "2024-12-12T10:29:46.299Z",
+      "flightDate": "2024-12-13",
+      "ticketId": "3539017301556615",
+      "selectedSeats": [
+        "4D"
+      ],
+      "userId": "31ca",
+      "passengerDetails": {
+        "passenger1name": "hari",
+        "passenger1age": "23"
+      },
+      "passengerSeatConfigurationDetails": [
+        {
+          "seatNo": "4D",
+          "personName": "hari",
+          "personAge": "23"
+        }
+      ]
+    },
+    {
+      "id": "7574",
+      "airplaneId": "IND163",
+      "airplaneTravellingDetails": {
+        "from": "(CHN)Chennai",
+        "to": "(VZD)Vijayawada"
+      },
+      "airplaneClass": "Economy",
+      "price": "6000",
+      "duration": "02hr 10min",
+      "airportNames": {
+        "from": "Chennai International Airport, Chennai",
+        "to": "Vijayawada Airport, Vijayawada"
+      },
+      "airplaneTimings": {
+        "start": "14:00",
+        "end": "16:10"
+      },
+      "passengersCount": "1",
+      "orderedDate": "2024-12-13T10:55:06.817Z",
+      "flightDate": "2024-12-14",
+      "ticketId": "8725301370999843",
+      "selectedSeats": [
+        "10D"
+      ],
+      "userId": "31ca",
+      "passengerDetails": {
+        "passenger1name": "Tharun",
+        "passenger1age": "23"
+      },
+      "passengerSeatConfigurationDetails": [
+        {
+          "seatNo": "10D",
+          "personName": "Tharun",
+          "personAge": "23"
+        }
+      ]
+    },
+    {
+      "id": "6f1c",
+      "airplaneId": "IND163",
+      "airplaneTravellingDetails": {
+        "from": "(CHN)Chennai",
+        "to": "(VZD)Vijayawada"
+      },
+      "airplaneClass": "Economy",
+      "price": "6000",
+      "duration": "02hr 10min",
+      "airportNames": {
+        "from": "Chennai International Airport, Chennai",
+        "to": "Vijayawada Airport, Vijayawada"
+      },
+      "airplaneTimings": {
+        "start": "14:00",
+        "end": "16:10"
+      },
+      "passengersCount": "2",
+      "orderedDate": "2024-12-13T13:20:23.220Z",
+      "flightDate": "2024-12-14",
+      "ticketId": "43568909486520413",
+      "selectedSeats": [
+        "1C",
+        "1D"
+      ],
+      "userId": "31ca",
+      "passengerDetails": {
+        "passenger1name": "Tharun",
+        "passenger1age": "23",
+        "passenger2name": "Manikanta",
+        "passenger2age": "23"
+      },
+      "passengerSeatConfigurationDetails": [
+        {
+          "seatNo": "1C",
+          "personName": "Tharun",
+          "personAge": "23"
+        },
+        {
+          "seatNo": "1D",
+          "personName": "Manikanta",
+          "personAge": "23"
+        }
+      ]
+    },
+    {
+      "id": "9b5c",
+      "airplaneId": "IND163",
+      "airplaneTravellingDetails": {
+        "from": "(CHN)Chennai",
+        "to": "(VZD)Vijayawada"
+      },
+      "airplaneClass": "Economy",
+      "price": "6000",
+      "duration": "02hr 10min",
+      "airportNames": {
+        "from": "Chennai International Airport, Chennai",
+        "to": "Vijayawada Airport, Vijayawada"
+      },
+      "airplaneTimings": {
+        "start": "14:00",
+        "end": "16:10"
+      },
+      "passengersCount": "1",
+      "orderedDate": "2024-12-16T14:20:17.218Z",
+      "flightDate": "2024-12-17",
+      "ticketId": "940694539637408",
+      "selectedSeats": [
+        "10C"
+      ],
+      "userId": "31ca",
+      "userName": "manikanta nelli",
+      "passengerDetails": {
+        "passenger1name": "hari",
+        "passenger1age": "23"
+      },
+      "passengerSeatConfigurationDetails": [
+        {
+          "seatNo": "10C",
+          "personName": "hari",
+          "personAge": "23"
+        }
+      ]
+    },
+    {
+      "id": "6db3",
+      "airplaneId": "IND163",
+      "airplaneTravellingDetails": {
+        "from": "(CHN)Chennai",
+        "to": "(VZD)Vijayawada"
+      },
+      "airplaneClass": "Economy",
+      "price": "6000",
+      "duration": "02hr 10min",
+      "airportNames": {
+        "from": "Chennai International Airport, Chennai",
+        "to": "Vijayawada Airport, Vijayawada"
+      },
+      "airplaneTimings": {
+        "start": "14:00",
+        "end": "16:10"
+      },
+      "passengersCount": "1",
+      "orderedDate": "2024-12-16T14:25:56.773Z",
+      "flightDate": "2024-12-17",
+      "ticketId": "874168368016359",
+      "selectedSeats": [
+        "9D"
+      ],
+      "userId": "16cd",
+      "userName": "Hari",
+      "passengerDetails": {
+        "passenger1name": "hari",
+        "passenger1age": "23"
+      },
+      "passengerSeatConfigurationDetails": [
+        {
+          "seatNo": "9D",
+          "personName": "hari",
+          "personAge": "23"
+        }
+      ]
+    }
+  ],
+  "rating": [],
+  "support": [
+    {
+      "id": "4fb0",
+      "ticketId": "21633711261346678",
+      "message": "Ticket not scanned",
+      "userId": "31ca",
+      "submittedDate": "16/12/2024"
+    }
+  ],
+  "IND123": {},
+  "IND122": {},
+  "IND113": {},
+  "IND112": {},
+  "IND103": {},
+  "IND102": {},
+  "IND143": {},
+  "IND142": {},
+  "IND153": {},
+  "IND152": {},
+  "IND163": {
+    "2024-12-13": [
+      {
+        "seatNo": "9C",
+        "personName": "hari",
+        "personAge": "23"
+      }
+    ],
+    "2024-12-14": [
+      {
+        "seatNo": "10D",
+        "personName": "Tharun",
+        "personAge": "23"
+      }
+    ],
+    "2024-12-17": [
+      {
+        "seatNo": "10C",
+        "personName": "hari",
+        "personAge": "23"
+      },
+      {
+        "seatNo": "9D",
+        "personName": "hari",
+        "personAge": "23"
+      }
+    ]
+  },
+  "IND162": {},
+  "IND173": {
+    "2024-12-13": [
+      {
+        "seatNo": "4D",
+        "personName": "hari",
+        "personAge": "23"
+      }
+    ],
+    "2024-12-14": []
+  },
+  "IND172": {},
+  "IND183": {},
+  "IND182": {},
+  "IND223": {},
+  "IND222": {},
+  "IND243": {},
+  "IND242": {},
+  "IND253": {},
+  "IND252": {
+    "2024-12-15": [
+      {
+        "seatNo": "10A",
+        "personName": "raja",
+        "personAge": "23"
+      }
+    ]
+  },
+  "IND263": {},
+  "IND262": {},
+  "IND273": {},
+  "IND272": {},
+  "totalFlightNames": [
+    {
+      "flightName": "IND123",
+      "id": "7a57"
+    },
+    {
+      "flightName": "IND122",
+      "id": "4038"
+    },
+    {
+      "flightName": "IND113",
+      "id": "9398"
+    },
+    {
+      "flightName": "IND112",
+      "id": "db9d"
+    },
+    {
+      "flightName": "IND103",
+      "id": "f8fa"
+    },
+    {
+      "flightName": "IND102",
+      "id": "7f54"
+    },
+    {
+      "flightName": "IND143",
+      "id": "a290"
+    },
+    {
+      "flightName": "IND142",
+      "id": "f189"
+    },
+    {
+      "flightName": "IND153",
+      "id": "e3b6"
+    },
+    {
+      "flightName": "IND152",
+      "id": "24e3"
+    },
+    {
+      "flightName": "IND163",
+      "id": "869b"
+    },
+    {
+      "flightName": "IND162",
+      "id": "89a7"
+    },
+    {
+      "flightName": "IND173",
+      "id": "e4fb"
+    },
+    {
+      "flightName": "IND172",
+      "id": "3489"
+    },
+    {
+      "flightName": "IND183",
+      "id": "7be5"
+    },
+    {
+      "flightName": "IND182",
+      "id": "e9ef"
+    },
+    {
+      "flightName": "IND223",
+      "id": "14a4"
+    },
+    {
+      "flightName": "IND222",
+      "id": "389d"
+    },
+    {
+      "flightName": "IND243",
+      "id": "d521"
+    },
+    {
+      "flightName": "IND242",
+      "id": "efd4"
+    },
+    {
+      "flightName": "IND253",
+      "id": "fcc7"
+    },
+    {
+      "flightName": "IND252",
+      "id": "4b4b"
+    },
+    {
+      "flightName": "IND263",
+      "id": "d116"
+    },
+    {
+      "flightName": "IND262",
+      "id": "c443"
+    },
+    {
+      "flightName": "IND273",
+      "id": "b4f6"
+    },
+    {
+      "flightName": "IND272",
+      "id": "691b"
+    }
+  ],
+  "admin": [
+    {
+      "adminEmail": "Hari@gmail.com",
+      "adminPassword": "Hari@1234"
+    }
+  ]
+}
